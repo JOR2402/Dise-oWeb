@@ -54,22 +54,22 @@ header{
 }
 
   
-
 .nav > li {
-    float:left;
+	float:left;
 	width:20%;
    }
    
    .nav li a {
-    background-color:#1A00FF;
+    background-color:#F0B429;
     color:#fff;
     text-decoration:none;
     padding:10px 12px;
     display:block;
+	
    }
    
    .nav li a:hover {
-    background-color:#434343;
+    background-color:#F0B429;
    }
    
    .nav li ul {
